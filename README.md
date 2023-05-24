@@ -1,5 +1,6 @@
 # pet_researches
-My repository houses a diverse range of pet research projects, spanning random musings to sociology and human behavior inquiries. It covers a wide spectrum of topics, including scientific articles for added structure. This platform combines curiosity-driven exploration with a touch of academia, reflecting my passion for understanding the world.
+
+This repository is my personal collection of pet research projects covering a diverse range of topics. It includes various random questions that have piqued my curiosity, as well as research projects focused on sociology and human behavior, which align with my interests. I have presented the sociological and behavioral research projects in the format of scientific articles, adding a touch of structure and academic style to the findings. The repository serves as a platform for me to share and document these research endeavors, combining both lighthearted exploration and scientific inquiry in a way that reflects my passion for understanding the world around us.
 
 ---
 
